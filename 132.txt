@@ -47,4 +47,11 @@
         <img src="小新.png" alt="小新的大頭照" width="400" height="400">
         <hl>我叫:小新</hl>
         <p>喜歡大美女，養一隻寵物名叫小白。＜/p＞
-        <div class="profile">
+        <div class="links">
+            <a href="htpps://ww.facebook.com" target"-blank" class="facebook">Facebook</a>
+            <a href="htpps://ww.google.com" target"-blank" class="google">Google</a>
+            <a href="htpps://ww.yahoo.com" target"-blank" class="yahoo">Yahoo</a>
+        </div>
+    <div>
+</body>
+</html>
